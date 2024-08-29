@@ -1,0 +1,27 @@
+#navlist{
+    margin-left: 50;
+    margin-right: 50px;
+    list-style: none;
+    font-size: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container{
+    height: 100vh;
+    width: 200vh;
+    overflow-x: none;
+}
+.navContainer{
+  
+    width: 100vw;
+    min-height: 80px;
+    
+    background-color: rgb(91, 91, 179);
+    
+}
+    
+
+#navlogo{
+    font-size: 2rem;
+}
